@@ -1,0 +1,64 @@
+<!-- Active Response Configuration for mydj_server -->
+<!-- Automated responses to detected attacks -->
+
+<!-- Command definitions -->
+<command>
+  <name>host-deny</name>
+  <executable>host-deny.sh</executable>
+  <expect>srcip</expect>
+  <timeout_allowed>yes</timeout_allowed>
+</command>
+
+<command>
+  <name>firewall-drop</name>
+  <executable>firewall-drop.sh</executable>
+  <expect>srcip</expect>
+  <timeout_allowed>yes</timeout_allowed>
+</command>
+
+<command>
+  <name>disable-account</name>
+  <executable>disable-account.sh</executable>
+  <expect>user</expect>
+  <timeout_allowed>yes</timeout_allowed>
+</command>
+
+<!-- Active Response for SQL Injection -->
+<active-response>
+  <command>firewall-drop</command>
+  <location>local</location>
+  <rules_id>100001,100002</rules_id>
+  <timeout>3600</timeout>
+</active-response>
+
+<!-- Active Response for Brute Force -->
+<active-response>
+  <command>host-deny</command>
+  <location>local</location>
+  <rules_id>100004,100009</rules_id>
+  <timeout>1800</timeout>
+</active-response>
+
+<!-- Active Response for DoS Attacks -->
+<active-response>
+  <command>firewall-drop</command>
+  <location>local</location>
+  <rules_id>100003,100007</rules_id>
+  <timeout>600</timeout>
+</active-response>
+
+<!-- Active Response for Port Scanning -->
+<active-response>
+  <command>host-deny</command>
+  <location>local</location>
+  <rules_id>100005</rules_id>
+  <timeout>900</timeout>
+</active-response>
+
+<!-- Active Response for Malicious File Upload -->
+<active-response>
+  <command>firewall-drop</command>
+  <location>local</location>
+  <rules_id>100008</rules_id>
+  <timeout>7200</timeout>
+</active-response>

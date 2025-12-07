@@ -1,0 +1,40 @@
+[DEFAULT]
+# Ban IP after 3 failed attempts within 10 minutes
+bantime = 3600
+findtime = 600
+maxretry = 3
+
+# Enable logging
+logtarget = /var/log/fail2ban.log
+
+[sshd]
+enabled = true
+port = ssh
+filter = sshd
+logpath = /var/log/auth.log
+
+[mydj-auth]
+enabled = true
+port = 8000
+filter = mydj-auth
+logpath = /app/logs/security.log
+maxretry = 5
+bantime = 1800
+
+[mydj-dos]
+enabled = true
+port = 8000
+filter = mydj-dos
+logpath = /app/logs/application.log
+maxretry = 100
+findtime = 60
+bantime = 600
+
+[nginx-limit-req]
+enabled = false
+filter = nginx-limit-req
+action = iptables-multiport[name=ReqLimit, port="http,https", protocol=tcp]
+logpath = /var/log/nginx/*error.log
+findtime = 600
+bantime = 7200
+maxretry = 10
