@@ -27,6 +27,8 @@ touch /app/logs/access.log
 # Start Fail2ban if enabled
 if [ "$ENABLE_FAIL2BAN" = "true" ]; then
     echo "Starting Fail2ban..."
+    # Remove existing socket if present
+    sudo rm -f /var/run/fail2ban/fail2ban.sock
     sudo service fail2ban start || echo "Warning: Could not start Fail2ban. Continuing without it."
 fi
 

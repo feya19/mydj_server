@@ -1,12 +1,37 @@
 import json
-from fastapi import FastAPI, UploadFile, File, Form, Body
+from fastapi import FastAPI, UploadFile, File, Form, Body, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import os
 import shutil
+import logging
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
+from slowapi.middleware import SlowAPIMiddleware
+
+# Setup logging
+logging.basicConfig(filename='logs/application.log', level=logging.INFO, 
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Instance aplikasi utama
 app = FastAPI(title="mydj_server", description="Server sederhana untuk aplikasi MyDJ")
+
+# Custom rate limit exceeded handler
+@app.exception_handler(RateLimitExceeded)
+async def custom_rate_limit_handler(request: Request, exc: RateLimitExceeded):
+    client_ip = request.client.host if request.client else "unknown"
+    logging.warning(f'rate_limit_exceeded "ip_address": "{client_ip}"')
+    return JSONResponse(
+        status_code=429,
+        content={"error": "Too many requests", "detail": "Rate limit exceeded"}
+    )
+
+# Rate limiting setup
+limiter = Limiter(key_func=get_remote_address)
+app.state.limiter = limiter
+app.add_middleware(SlowAPIMiddleware)
+
 # Izinkan semua origin
 app.add_middleware(
     CORSMiddleware,
@@ -24,7 +49,9 @@ def root():
     return {"message": "mydj_server berjalan dengan baik!"}
 
 @app.post("/upload-jurnal")
+@limiter.limit("10/minute")
 async def upload_jurnal(
+    request: Request,
     kelas: str = Form(...),
     mapel: str = Form(...),
     jam: int = Form(...),
