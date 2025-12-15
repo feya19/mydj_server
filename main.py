@@ -9,10 +9,15 @@ from slowapi import Limiter, _rate_limit_exceeded_handler
 from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
+from discord_notifier import DiscordNotifier
 
 # Setup logging
 logging.basicConfig(filename='logs/application.log', level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Initialize Discord notifier (optional - only if webhook URL is provided)
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "https://discord.com/api/webhooks/1080148082404114513/Ybji_FHuLTha1Z2EhwiCUy0SY8MMBjiUgT70FPtzkjkcAgoNB-BSXxvE-ax2YH3Jhf_c")
+discord_notifier = DiscordNotifier(DISCORD_WEBHOOK_URL) if DISCORD_WEBHOOK_URL else None
 
 # Instance aplikasi utama
 app = FastAPI(title="mydj_server", description="Server sederhana untuk aplikasi MyDJ")
@@ -22,6 +27,16 @@ app = FastAPI(title="mydj_server", description="Server sederhana untuk aplikasi 
 async def custom_rate_limit_handler(request: Request, exc: RateLimitExceeded):
     client_ip = request.client.host if request.client else "unknown"
     logging.warning(f'rate_limit_exceeded "ip_address": "{client_ip}"')
+    
+    # Send Discord notification
+    print(discord_notifier)
+    if discord_notifier:
+        discord_notifier.send_rate_limit_alert(
+            ip_address=client_ip,
+            endpoint=str(request.url.path),
+            attempts=10  # Based on your limit of 10/minute
+        )
+    
     return JSONResponse(
         status_code=429,
         content={"error": "Too many requests", "detail": "Rate limit exceeded"}
@@ -47,6 +62,37 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 @app.get("/")
 def root():
     return {"message": "mydj_server berjalan dengan baik!"}
+
+@app.get("/test-discord")
+async def test_discord():
+    """Test endpoint to verify Discord webhook integration"""
+    if not discord_notifier:
+        return JSONResponse(
+            status_code=503,
+            content={"error": "Discord webhook not configured", "hint": "Set DISCORD_WEBHOOK_URL in .env"}
+        )
+    
+    from datetime import datetime
+    
+    success = discord_notifier.send_embed(
+        title="🧪 Test Notification",
+        description="This is a test notification from MyDJ Server to verify the Discord integration is working correctly.",
+        color="info",
+        fields=[
+            {"name": "✅ Status", "value": "Working", "inline": True},
+            {"name": "⏰ Time", "value": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), "inline": True},
+            {"name": "🔧 Endpoint", "value": "/test-discord", "inline": True}
+        ],
+        footer="MyDJ Server • Discord Integration Test"
+    )
+    
+    if success:
+        return {"success": True, "message": "Test notification sent! Check your Discord channel."}
+    else:
+        return JSONResponse(
+            status_code=500,
+            content={"success": False, "message": "Failed to send notification. Check logs for details."}
+        )
 
 @app.post("/upload-jurnal")
 @limiter.limit("10/minute")
@@ -108,6 +154,23 @@ async def upload_jurnal(
     data.append(jurnal_data)
     with open(DATA_FILE, "w") as f:
         json.dump(data, f, indent=2)
+
+    # --------------------------
+    # Send Discord Notification
+    # --------------------------
+    if discord_notifier:
+        discord_notifier.send_jurnal_notification(
+            kelas=kelas,
+            mapel=mapel,
+            jam=jam,
+            tujuan=tujuanPembelajaran,
+            materi=materiTopikPembelajaran,
+            kegiatan=kegiatanPembelajaran,
+            dimensi=dimensiProfilPelajarPancasila,
+            created_at=createdAt,
+            has_image=image is not None,
+            has_video=video is not None
+        )
 
     # --------------------------
     # Response

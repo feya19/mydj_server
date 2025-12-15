@@ -45,11 +45,11 @@ RUN mkdir -p /app/uploads /app/logs /var/log/mydj_server && \
 COPY requirements.txt .
 
 # Install Python dependencies with security considerations
-RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt && \
-    # Security: Remove pip cache and temporary files
-    pip cache purge && \
-    rm -rf /tmp/* /var/tmp/*
+# RUN pip install --no-cache-dir --upgrade pip && \
+#     pip install --no-cache-dir -r requirements.txt && \
+#     # Security: Remove pip cache and temporary files
+#     pip cache purge && \
+#     rm -rf /tmp/* /var/tmp/*
 
 # Copy application code
 COPY . .
