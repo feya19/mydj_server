@@ -1,0 +1,33 @@
+{
+  "http_form": {
+    "target": "localhost",
+    "port": 8000,
+    "endpoint": "/upload-jurnal",
+    "method": "POST",
+    "form_parameters": "kelas=^USER^&password=^PASS^",
+    "failure_string": "error",
+    "threads": 4,
+    "timeout": 10,
+    "verbose": true
+  },
+  "ssh": {
+    "target": "localhost",
+    "port": 22,
+    "threads": 4,
+    "timeout": 10,
+    "verbose": true
+  },
+  "ftp": {
+    "target": "localhost",
+    "port": 21,
+    "threads": 4,
+    "timeout": 10,
+    "verbose": true
+  },
+  "general": {
+    "wordlist_dir": "wordlists",
+    "username_file": "usernames.txt",
+    "password_file": "passwords.txt",
+    "log_file": "logs/medusa_attacks.log"
+  }
+}

@@ -17,6 +17,9 @@ RUN apt-get update && apt-get install -y \
     # Wazuh agent dependencies
     apt-transport-https \
     lsb-release \
+    # Brute force tools for testing
+    hydra \
+    medusa \
     # Cleanup
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
@@ -45,11 +48,11 @@ RUN mkdir -p /app/uploads /app/logs /var/log/mydj_server && \
 COPY requirements.txt .
 
 # Install Python dependencies with security considerations
-# RUN pip install --no-cache-dir --upgrade pip && \
-#     pip install --no-cache-dir -r requirements.txt && \
-#     # Security: Remove pip cache and temporary files
-#     pip cache purge && \
-#     rm -rf /tmp/* /var/tmp/*
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt && \
+    # Security: Remove pip cache and temporary files
+    pip cache purge && \
+    rm -rf /tmp/* /var/tmp/*
 
 # Copy application code
 COPY . .

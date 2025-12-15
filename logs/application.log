@@ -47,3 +47,865 @@
 2025-12-14 21:57:36,789 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
 2025-12-14 21:57:36,789 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
 2025-12-14 21:57:37,294 - INFO - Discord notification sent successfully
+2025-12-15 19:22:45,051 - INFO - Discord notification sent successfully
+2025-12-15 19:22:46,502 - INFO - Discord notification sent successfully
+2025-12-15 19:22:47,950 - INFO - Discord notification sent successfully
+2025-12-15 19:22:52,025 - INFO - Discord notification sent successfully
+2025-12-15 19:22:52,587 - INFO - Discord notification sent successfully
+2025-12-15 19:22:53,027 - INFO - Discord notification sent successfully
+2025-12-15 19:22:53,473 - INFO - Discord notification sent successfully
+2025-12-15 19:22:53,912 - INFO - Discord notification sent successfully
+2025-12-15 19:22:54,389 - INFO - Discord notification sent successfully
+2025-12-15 19:22:54,891 - INFO - Discord notification sent successfully
+2025-12-15 19:22:54,894 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:54,894 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:55,341 - INFO - Discord notification sent successfully
+2025-12-15 19:22:55,343 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:55,346 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:55,761 - INFO - Discord notification sent successfully
+2025-12-15 19:22:55,764 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:55,765 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:56,502 - INFO - Discord notification sent successfully
+2025-12-15 19:22:56,505 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:56,505 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:57,028 - INFO - Discord notification sent successfully
+2025-12-15 19:22:57,032 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:57,035 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:57,484 - INFO - Discord notification sent successfully
+2025-12-15 19:22:57,486 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:57,488 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:57,875 - INFO - Discord notification sent successfully
+2025-12-15 19:22:57,878 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:57,879 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:58,310 - INFO - Discord notification sent successfully
+2025-12-15 19:22:58,313 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:58,315 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:58,716 - INFO - Discord notification sent successfully
+2025-12-15 19:22:58,720 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:58,721 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:59,265 - INFO - Discord notification sent successfully
+2025-12-15 19:22:59,268 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:59,269 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:22:59,715 - INFO - Discord notification sent successfully
+2025-12-15 19:22:59,717 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:22:59,718 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:00,142 - INFO - Discord notification sent successfully
+2025-12-15 19:23:00,144 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:00,145 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:00,679 - INFO - Discord notification sent successfully
+2025-12-15 19:23:00,681 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:00,684 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:01,116 - INFO - Discord notification sent successfully
+2025-12-15 19:23:01,119 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:01,120 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:01,520 - INFO - Discord notification sent successfully
+2025-12-15 19:23:01,523 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:01,526 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:01,995 - INFO - Discord notification sent successfully
+2025-12-15 19:23:01,997 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:02,000 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:02,544 - INFO - Discord notification sent successfully
+2025-12-15 19:23:02,546 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:02,547 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:02,973 - INFO - Discord notification sent successfully
+2025-12-15 19:23:02,975 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:02,975 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:04,702 - INFO - Discord notification sent successfully
+2025-12-15 19:23:04,710 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:04,712 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:05,144 - INFO - Discord notification sent successfully
+2025-12-15 19:23:05,149 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:05,151 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:05,752 - INFO - Discord notification sent successfully
+2025-12-15 19:23:05,755 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:05,756 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:06,137 - INFO - Discord notification sent successfully
+2025-12-15 19:23:06,141 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:06,146 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:06,775 - INFO - Discord notification sent successfully
+2025-12-15 19:23:06,777 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:06,780 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:07,169 - INFO - Discord notification sent successfully
+2025-12-15 19:23:07,172 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:07,173 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:07,640 - INFO - Discord notification sent successfully
+2025-12-15 19:23:07,644 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:07,644 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:08,160 - INFO - Discord notification sent successfully
+2025-12-15 19:23:08,162 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:08,163 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:08,577 - INFO - Discord notification sent successfully
+2025-12-15 19:23:08,580 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:08,581 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:08,976 - INFO - Discord notification sent successfully
+2025-12-15 19:23:08,978 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:08,981 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:09,468 - INFO - Discord notification sent successfully
+2025-12-15 19:23:09,472 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:09,473 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:09,951 - INFO - Discord notification sent successfully
+2025-12-15 19:23:09,955 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:09,957 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:10,401 - INFO - Discord notification sent successfully
+2025-12-15 19:23:10,404 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:10,405 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:10,862 - INFO - Discord notification sent successfully
+2025-12-15 19:23:10,864 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:10,865 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:11,525 - INFO - Discord notification sent successfully
+2025-12-15 19:23:11,528 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:11,530 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:11,914 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:11,917 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:11,918 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:12,308 - INFO - Discord notification sent successfully
+2025-12-15 19:23:12,312 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:12,314 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:12,672 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:12,674 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:12,675 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:15,012 - INFO - Discord notification sent successfully
+2025-12-15 19:23:15,013 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:15,016 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:15,400 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:15,403 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:15,404 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:15,757 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:15,762 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:15,764 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:16,197 - INFO - Discord notification sent successfully
+2025-12-15 19:23:16,201 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:16,202 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:16,616 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:16,617 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:16,620 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:16,972 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:16,974 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:16,975 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:17,362 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:17,365 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:17,366 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:17,764 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:17,770 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:17,771 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:18,277 - INFO - Discord notification sent successfully
+2025-12-15 19:23:18,281 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:18,284 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:18,650 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:18,652 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:18,653 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:19,049 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:19,051 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:19,052 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:19,398 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:19,400 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:19,402 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:19,787 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:19,791 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:19,792 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:20,309 - INFO - Discord notification sent successfully
+2025-12-15 19:23:20,313 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:20,314 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:20,684 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:20,687 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:20,688 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:21,085 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:21,087 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:21,091 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:21,468 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:21,471 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:21,471 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:21,909 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:21,913 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:21,914 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:22,312 - INFO - Discord notification sent successfully
+2025-12-15 19:23:22,316 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:22,319 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:22,756 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:22,757 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:22,758 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:23,126 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:23,129 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:23,130 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:23,495 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:23,498 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:23,500 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:23,914 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:23,917 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:23,920 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:24,383 - INFO - Discord notification sent successfully
+2025-12-15 19:23:24,386 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:24,391 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:24,842 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:24,845 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:24,846 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:25,263 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:25,265 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:25,266 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:25,633 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:25,635 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:25,638 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:26,088 - INFO - Discord notification sent successfully
+2025-12-15 19:23:26,092 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:26,096 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:26,445 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:26,449 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:26,453 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:26,835 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:26,838 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:26,839 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:27,317 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:27,320 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:27,322 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:27,739 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:27,741 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:27,742 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:28,210 - INFO - Discord notification sent successfully
+2025-12-15 19:23:28,213 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:28,215 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:28,653 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:28,656 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:28,658 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:29,037 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:29,039 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:29,041 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:29,408 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:29,410 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:29,410 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:29,810 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:29,812 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:29,813 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:30,206 - INFO - Discord notification sent successfully
+2025-12-15 19:23:30,211 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:30,213 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:30,575 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:30,578 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:30,580 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:30,976 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:30,978 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:30,979 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:32,823 - INFO - Discord notification sent successfully
+2025-12-15 19:23:32,825 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:32,825 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:33,180 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:33,182 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:33,184 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:33,548 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:33,552 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:33,553 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:33,978 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:33,981 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:33,982 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:34,651 - INFO - Discord notification sent successfully
+2025-12-15 19:23:34,653 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:34,655 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:35,059 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:35,062 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:35,063 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:35,424 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:35,425 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:35,426 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:35,784 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:35,787 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:35,788 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:36,202 - INFO - Discord notification sent successfully
+2025-12-15 19:23:36,206 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:36,209 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:36,571 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:36,573 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:36,574 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:36,911 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:36,913 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:36,914 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:37,316 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:37,318 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:37,319 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:37,690 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:37,692 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:37,697 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:38,681 - INFO - Discord notification sent successfully
+2025-12-15 19:23:38,687 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:38,687 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:39,043 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:39,045 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:39,046 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:39,405 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:39,407 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:39,407 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:39,784 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:39,786 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:39,789 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:40,290 - INFO - Discord notification sent successfully
+2025-12-15 19:23:40,292 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:40,294 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:40,656 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:40,660 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:40,662 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:41,034 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:41,036 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:41,036 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:41,400 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:41,402 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:41,402 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:41,756 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:41,758 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:41,759 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:42,297 - INFO - Discord notification sent successfully
+2025-12-15 19:23:42,301 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:42,301 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:42,681 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:42,685 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:42,689 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:43,116 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:43,118 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:43,118 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:43,469 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:43,472 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:43,474 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:43,840 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:43,842 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:43,844 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:44,257 - INFO - Discord notification sent successfully
+2025-12-15 19:23:44,261 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:44,264 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:44,645 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:45,021 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:45,461 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:45,867 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:46,404 - INFO - Discord notification sent successfully
+2025-12-15 19:23:46,780 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:47,200 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:47,615 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:48,052 - INFO - Discord notification sent successfully
+2025-12-15 19:23:48,459 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:48,960 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:48,965 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:48,969 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:49,330 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:49,332 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:49,333 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:49,727 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:49,730 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:49,731 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:50,153 - INFO - Discord notification sent successfully
+2025-12-15 19:23:50,154 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:50,155 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:50,528 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:50,531 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:50,532 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:50,926 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:50,929 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:50,932 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:51,280 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:51,282 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:51,282 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:51,645 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:51,647 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:51,648 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:52,046 - INFO - Discord notification sent successfully
+2025-12-15 19:23:52,049 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:52,051 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:52,430 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:52,433 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:52,435 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:52,788 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:52,792 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:52,793 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:53,139 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:53,141 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:53,142 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:53,526 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:53,529 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:53,530 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:54,337 - INFO - Discord notification sent successfully
+2025-12-15 19:23:54,339 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:54,340 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:54,703 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:54,707 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:54,709 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:55,077 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:55,081 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:55,085 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:55,478 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:55,479 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:55,480 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:55,852 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:55,854 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:55,856 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:56,319 - INFO - Discord notification sent successfully
+2025-12-15 19:23:56,321 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:56,322 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:56,715 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:56,719 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:56,721 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:57,133 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:57,137 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:57,139 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:57,545 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:57,548 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:57,550 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:58,104 - INFO - Discord notification sent successfully
+2025-12-15 19:23:58,106 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:58,108 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:58,466 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:58,469 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:58,469 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:58,818 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:58,822 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:58,823 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:59,194 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:59,199 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:59,203 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:59,578 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:59,580 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:59,583 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:23:59,977 - WARNING - Discord rate limit exceeded
+2025-12-15 19:23:59,979 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:23:59,979 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:00,422 - INFO - Discord notification sent successfully
+2025-12-15 19:24:00,424 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:00,425 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:00,786 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:00,790 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:00,790 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:01,159 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:01,163 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:01,164 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:01,594 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:01,597 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:01,598 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:02,138 - INFO - Discord notification sent successfully
+2025-12-15 19:24:02,141 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:02,143 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:02,500 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:02,503 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:02,504 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:02,924 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:02,927 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:02,928 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:03,286 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:03,291 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:03,293 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:03,665 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:03,667 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:03,669 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:04,060 - INFO - Discord notification sent successfully
+2025-12-15 19:24:04,063 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:04,064 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:04,430 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:04,432 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:04,433 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:04,800 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:04,802 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:04,803 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:05,158 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:05,161 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:05,163 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:05,523 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:05,525 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:05,525 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:05,911 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:05,914 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:05,915 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:06,396 - INFO - Discord notification sent successfully
+2025-12-15 19:24:06,399 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:06,399 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:06,776 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:06,779 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:06,780 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:07,149 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:07,153 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:07,155 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:07,518 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:07,521 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:07,521 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:07,890 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:07,892 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:07,894 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:08,321 - INFO - Discord notification sent successfully
+2025-12-15 19:24:08,323 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:08,325 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:08,727 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:08,731 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:08,731 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:09,133 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:09,138 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:09,140 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:09,519 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:09,521 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:09,522 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:09,894 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:09,897 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:09,899 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:10,339 - INFO - Discord notification sent successfully
+2025-12-15 19:24:10,340 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:10,341 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:10,700 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:10,703 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:10,706 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:11,096 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:11,099 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:11,100 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:11,471 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:11,473 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:11,476 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:11,953 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:11,955 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:11,955 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:12,579 - INFO - Discord notification sent successfully
+2025-12-15 19:24:12,581 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:12,584 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:12,969 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:12,972 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:12,975 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:13,353 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:13,357 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:13,358 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:13,777 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:13,779 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:13,780 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:14,227 - INFO - Discord notification sent successfully
+2025-12-15 19:24:14,229 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:14,232 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:14,611 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:14,612 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:14,613 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:14,967 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:14,970 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:14,972 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:15,339 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:15,343 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:15,345 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:15,738 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:15,740 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:15,741 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:16,196 - INFO - Discord notification sent successfully
+2025-12-15 19:24:16,199 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:16,201 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:16,561 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:16,563 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:16,563 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:16,980 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:16,983 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:16,985 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:17,342 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:17,345 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:17,349 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:17,717 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:17,720 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:17,720 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:18,191 - INFO - Discord notification sent successfully
+2025-12-15 19:24:18,193 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:18,194 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:18,562 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:18,564 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:18,565 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:19,227 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:19,232 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:19,233 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:19,651 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:19,655 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:19,658 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:20,125 - INFO - Discord notification sent successfully
+2025-12-15 19:24:20,126 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:20,127 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:20,484 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:20,486 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:20,488 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:20,875 - WARNING - Discord rate limit exceeded
+2025-12-15 19:24:20,876 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:24:20,877 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:24:21,334 - WARNING - Discord rate limit exceeded
+2025-12-15 19:31:38,447 - INFO - Discord notification sent successfully
+2025-12-15 19:31:39,890 - INFO - Discord notification sent successfully
+2025-12-15 19:31:41,428 - INFO - Discord notification sent successfully
+2025-12-15 19:31:42,862 - INFO - Discord notification sent successfully
+2025-12-15 19:31:44,342 - INFO - Discord notification sent successfully
+2025-12-15 19:31:45,749 - INFO - Discord notification sent successfully
+2025-12-15 19:31:46,423 - INFO - Discord notification sent successfully
+2025-12-15 19:31:46,953 - INFO - Discord notification sent successfully
+2025-12-15 19:31:47,900 - INFO - Discord notification sent successfully
+2025-12-15 19:31:48,413 - INFO - Discord notification sent successfully
+2025-12-15 19:31:48,419 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:48,420 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:48,804 - INFO - Discord notification sent successfully
+2025-12-15 19:31:48,809 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:48,811 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:49,185 - INFO - Discord notification sent successfully
+2025-12-15 19:31:49,187 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:49,188 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:49,609 - INFO - Discord notification sent successfully
+2025-12-15 19:31:49,611 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:49,612 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:49,997 - INFO - Discord notification sent successfully
+2025-12-15 19:31:50,000 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:50,000 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:50,454 - INFO - Discord notification sent successfully
+2025-12-15 19:31:50,458 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:50,460 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:50,893 - INFO - Discord notification sent successfully
+2025-12-15 19:31:50,912 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:50,913 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:51,465 - INFO - Discord notification sent successfully
+2025-12-15 19:31:51,466 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:51,469 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:52,316 - INFO - Discord notification sent successfully
+2025-12-15 19:31:52,318 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:52,321 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:52,769 - INFO - Discord notification sent successfully
+2025-12-15 19:31:52,772 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:52,776 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:53,289 - INFO - Discord notification sent successfully
+2025-12-15 19:31:53,292 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:53,294 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:53,830 - INFO - Discord notification sent successfully
+2025-12-15 19:31:53,835 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:53,840 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:54,434 - INFO - Discord notification sent successfully
+2025-12-15 19:31:54,436 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:54,437 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:54,860 - INFO - Discord notification sent successfully
+2025-12-15 19:31:54,862 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:54,867 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:55,335 - INFO - Discord notification sent successfully
+2025-12-15 19:31:55,338 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:55,339 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:55,827 - INFO - Discord notification sent successfully
+2025-12-15 19:31:55,830 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:55,833 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:56,329 - INFO - Discord notification sent successfully
+2025-12-15 19:31:56,332 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:56,336 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:56,735 - INFO - Discord notification sent successfully
+2025-12-15 19:31:56,738 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:56,739 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:57,165 - INFO - Discord notification sent successfully
+2025-12-15 19:31:57,167 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:57,170 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:57,631 - INFO - Discord notification sent successfully
+2025-12-15 19:31:57,634 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:57,636 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:58,079 - INFO - Discord notification sent successfully
+2025-12-15 19:31:58,082 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:58,084 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:58,771 - INFO - Discord notification sent successfully
+2025-12-15 19:31:58,775 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:58,777 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:59,203 - INFO - Discord notification sent successfully
+2025-12-15 19:31:59,205 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:59,206 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:31:59,592 - INFO - Discord notification sent successfully
+2025-12-15 19:31:59,594 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:31:59,594 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:00,003 - INFO - Discord notification sent successfully
+2025-12-15 19:32:00,006 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:00,009 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:00,424 - INFO - Discord notification sent successfully
+2025-12-15 19:32:00,427 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:00,431 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:00,828 - INFO - Discord notification sent successfully
+2025-12-15 19:32:00,833 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:00,837 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:01,214 - INFO - Discord notification sent successfully
+2025-12-15 19:32:01,216 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:01,218 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:01,720 - INFO - Discord notification sent successfully
+2025-12-15 19:32:01,725 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:01,727 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:02,103 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:02,106 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:02,108 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:02,543 - INFO - Discord notification sent successfully
+2025-12-15 19:32:02,545 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:02,546 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:03,076 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:03,083 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:03,084 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:03,477 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:03,485 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:03,487 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:03,891 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:03,894 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:03,895 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:04,272 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:04,275 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:04,279 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:04,788 - INFO - Discord notification sent successfully
+2025-12-15 19:32:04,790 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:04,792 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:05,163 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:05,170 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:05,172 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:05,571 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:05,573 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:05,575 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:05,928 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:05,930 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:05,930 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:06,290 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:06,293 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:06,298 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:06,692 - INFO - Discord notification sent successfully
+2025-12-15 19:32:06,693 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:06,696 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:07,066 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:07,070 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:07,071 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:07,473 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:07,476 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:07,477 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:07,898 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:07,900 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:07,902 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:08,254 - WARNING - Discord rate limit exceeded
+2025-12-15 19:32:08,257 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:32:08,259 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:32:08,702 - INFO - Discord notification sent successfully
+2025-12-15 19:49:53,176 - INFO - Discord notification sent successfully
+2025-12-15 19:49:54,616 - INFO - Discord notification sent successfully
+2025-12-15 19:49:56,107 - INFO - Discord notification sent successfully
+2025-12-15 19:57:49,638 - INFO - Discord notification sent successfully
+2025-12-15 19:57:53,214 - INFO - Discord notification sent successfully
+2025-12-15 19:57:54,724 - INFO - Discord notification sent successfully
+2025-12-15 19:57:56,239 - INFO - Discord notification sent successfully
+2025-12-15 19:57:57,704 - INFO - Discord notification sent successfully
+2025-12-15 19:57:59,224 - INFO - Discord notification sent successfully
+2025-12-15 19:57:59,778 - INFO - Discord notification sent successfully
+2025-12-15 19:58:00,318 - INFO - Discord notification sent successfully
+2025-12-15 19:58:00,972 - INFO - Discord notification sent successfully
+2025-12-15 19:58:01,421 - INFO - Discord notification sent successfully
+2025-12-15 19:58:01,424 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:01,427 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:01,898 - INFO - Discord notification sent successfully
+2025-12-15 19:58:01,900 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:01,901 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:02,376 - INFO - Discord notification sent successfully
+2025-12-15 19:58:02,380 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:02,382 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:02,819 - INFO - Discord notification sent successfully
+2025-12-15 19:58:02,822 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:02,824 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:03,245 - INFO - Discord notification sent successfully
+2025-12-15 19:58:03,247 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:03,249 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:03,693 - INFO - Discord notification sent successfully
+2025-12-15 19:58:03,697 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:03,698 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:04,171 - INFO - Discord notification sent successfully
+2025-12-15 19:58:04,173 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:04,176 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:04,866 - INFO - Discord notification sent successfully
+2025-12-15 19:58:04,876 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:04,878 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:05,325 - INFO - Discord notification sent successfully
+2025-12-15 19:58:05,327 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:05,328 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:05,729 - INFO - Discord notification sent successfully
+2025-12-15 19:58:05,732 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:05,732 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:06,261 - INFO - Discord notification sent successfully
+2025-12-15 19:58:06,264 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:06,265 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:06,723 - INFO - Discord notification sent successfully
+2025-12-15 19:58:06,725 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:06,726 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:07,257 - INFO - Discord notification sent successfully
+2025-12-15 19:58:07,261 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:07,262 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:07,734 - INFO - Discord notification sent successfully
+2025-12-15 19:58:07,736 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:07,737 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:08,173 - INFO - Discord notification sent successfully
+2025-12-15 19:58:08,175 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:08,176 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:08,601 - INFO - Discord notification sent successfully
+2025-12-15 19:58:08,604 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:08,607 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:09,066 - INFO - Discord notification sent successfully
+2025-12-15 19:58:09,068 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:09,071 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:09,501 - INFO - Discord notification sent successfully
+2025-12-15 19:58:09,504 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:09,505 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:10,211 - INFO - Discord notification sent successfully
+2025-12-15 19:58:10,214 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:10,216 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:10,645 - INFO - Discord notification sent successfully
+2025-12-15 19:58:10,647 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:10,650 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:11,078 - INFO - Discord notification sent successfully
+2025-12-15 19:58:11,082 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:11,083 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:11,500 - INFO - Discord notification sent successfully
+2025-12-15 19:58:11,502 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:11,504 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:11,923 - INFO - Discord notification sent successfully
+2025-12-15 19:58:11,927 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:11,928 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:12,403 - INFO - Discord notification sent successfully
+2025-12-15 19:58:12,406 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:12,408 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:12,847 - INFO - Discord notification sent successfully
+2025-12-15 19:58:12,854 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:12,857 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:13,364 - INFO - Discord notification sent successfully
+2025-12-15 19:58:13,368 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:13,369 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:13,833 - INFO - Discord notification sent successfully
+2025-12-15 19:58:13,836 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:13,838 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:14,332 - INFO - Discord notification sent successfully
+2025-12-15 19:58:14,339 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:14,342 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:14,752 - INFO - Discord notification sent successfully
+2025-12-15 19:58:14,755 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:14,757 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:15,171 - INFO - Discord notification sent successfully
+2025-12-15 19:58:15,173 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:15,174 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:15,571 - INFO - Discord notification sent successfully
+2025-12-15 19:58:15,575 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:15,576 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:15,976 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:15,978 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:15,979 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:16,406 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:16,411 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:16,412 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:16,764 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:16,767 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:16,768 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:17,132 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:17,134 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:17,135 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:17,512 - INFO - Discord notification sent successfully
+2025-12-15 19:58:17,517 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:17,517 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:17,904 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:17,906 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:17,907 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:18,283 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:18,287 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:18,290 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:18,661 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:18,663 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:18,666 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:19,140 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:19,142 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:19,145 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:19,630 - INFO - Discord notification sent successfully
+2025-12-15 19:58:19,633 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:19,636 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:20,006 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:20,010 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:20,011 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:20,421 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:20,426 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:20,428 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:20,792 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:20,794 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:20,795 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:21,154 - WARNING - Discord rate limit exceeded
+2025-12-15 19:58:21,158 - WARNING - ratelimit 10 per 1 minute (127.0.0.1) exceeded at endpoint: /upload-jurnal
+2025-12-15 19:58:21,159 - WARNING - rate_limit_exceeded "ip_address": "127.0.0.1"
+2025-12-15 19:58:21,749 - INFO - Discord notification sent successfully
